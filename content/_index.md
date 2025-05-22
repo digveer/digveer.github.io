@@ -24,5 +24,6 @@ This website is organized into different life chapters and themes. Feel free to 
 - **Career** - Professional experiences and growth
 - **Personal Projects** - Things I've built and created
 - **Thoughts & Reflections** - Personal insights and philosophies
+- **Life in Weeks** - A visual journey through time
 
 Use the sidebar to navigate through different sections, or start from the beginning to follow my journey chronologically. 
