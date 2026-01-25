@@ -1,19 +1,18 @@
 baseURL = 'https://digveer.com/'
 languageCode = 'en-us'
-title = 'My Life in Pages | Digveer'
+title = 'Digveer'
+disableKinds = ['taxonomy', 'term']
 theme = 'hugo-book'
 
 # Book theme specific configurations
 [params]
-  # Show table of contents by default
-  BookToC = true
-  # Enable "Edit this page" feature
-  BookRepo = 'https://github.com/digveer/digveer.github.io'
-  # Set dark mode as default
-  BookTheme = 'auto'
   # Hide "Built with Hugo" footer
   BookPortableLinks = false
-  # Set author name
-  BookAuthor = 'Digveer'
-  # Custom CSS
-  BookCustomCSS = ['css/custom.css']
+  # Disable search
+  BookSearch = false
+  # Disable table of contents
+  BookToC = false
+  # Disable section menu
+  BookMenuBundle = false
+  # Clean theme
+  BookTheme = 'light'
