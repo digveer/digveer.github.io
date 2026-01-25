@@ -2,6 +2,7 @@
 weight: 1
 bookFlatSection: true
 title: "Early Years"
+draft: true
 ---
 
 # Early Years
@@ -21,4 +22,4 @@ _This space is ready for your cherished childhood memories, family traditions, a
 
 ## Early Influences
 
-_Share about the people, places, and experiences that influenced your early development._ 
+_Share about the people, places, and experiences that influenced your early development._

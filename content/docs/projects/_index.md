@@ -2,6 +2,7 @@
 weight: 4
 bookFlatSection: true
 title: "Personal Projects"
+draft: true
 ---
 
 # Personal Projects
@@ -33,4 +34,4 @@ _A visual showcase of your work, including screenshots, diagrams, or other relev
 
 ## Future Ideas
 
-_Share your project pipeline and ideas you're excited to work on._ 
+_Share your project pipeline and ideas you're excited to work on._

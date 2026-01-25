@@ -71,6 +71,11 @@ h2 {
 
 # Digveer
 
+<!-- Deployment timestamp (rendered at build time) -->
+<p id="deployment-timestamp" style="font-size:0.9em;color:#666;margin-top:0.5rem;">
+    Deployment timestamp: {{< buildtime >}}
+</p>
+
 ## Work Experience
 
 <div class="work-item">
@@ -111,4 +116,4 @@ h2 {
     
     <div class="contact-label">Location</div>
     <div>San Francisco Bay Area</div>
-</div> 
+</div>
